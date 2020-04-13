@@ -15,14 +15,14 @@ export FTPUSER = 'ivan_petrovich'
 export FTPPASS = 'superseret123'
 ```
 
-2. Run code:
+3. Run code:
 
 ```
 $  python3 data_pipe.py
 ```
 
-3. Verify tables are populated in MySQL
+4. Verify tables are populated in MySQL
 
-4. Run queries from files `task3.sql`, `task4.sql` to complete the Task 3, 4 assignment
+5. Run queries from files `task3.sql`, `task4.sql` to complete the Task 3, 4 assignment
 
 
