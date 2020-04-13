@@ -4,7 +4,9 @@ Please note: I have not implemented storing ftp files on local disk
 
 1. Install dependencies
 
+```
 pip3 install -r requirements.txt
+```
 
 2. Export `FTPUSER`, `FTPPASS` variables
 
